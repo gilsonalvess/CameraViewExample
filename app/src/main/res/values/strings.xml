@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraViewExample</string>
+    <string name="permission_request_canceled">Permissão Negada</string>
+    <string name="error_permission_not_granted">Permissão não concedida</string>
+    <string name="title_error">Error</string>
+    <string name="label_ok">Error</string>
+    <string name="btn_take_pic">BUTTON TAKE PIC</string>
+</resources>
